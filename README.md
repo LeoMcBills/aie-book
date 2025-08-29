@@ -1,5 +1,5 @@
 # AI Engineering book and other resources
-> _This repo will be updated with more resources in the next few weeks._
+> _This repo will be updated with more resources in the next few weeks._ 
 
 - [About the book AI Engineering](#about-the-book)
     - [Table of contents](ToC.md)
